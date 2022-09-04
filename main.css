@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300&display=swap');
+
+
+body{
+    margin:0px;
+    background-color:var(--primary-color-);
+    /* font-family: 'Shadows Into Light', cursive; */
+    font-family: 'Teko', sans-serif;
+
+}
+:root{
+    --primary-color-:#0284c7;
+}
+h1{
+    text-align: center;
+    /* color: antiquewhite; */
+}
+h2{
+    text-align: center;
+    /* color: antiquewhite;/ */
+}
+button{
+    background-color:#a8a29e;
+    height: 7vh;
+    width: 9rem;
+    border-radius: .8rem;
+    display: block;
+    margin: auto;
+}
+textarea{
+    display: block;
+    margin: auto;
+    height: 10vh;
+    width: 25rem;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
